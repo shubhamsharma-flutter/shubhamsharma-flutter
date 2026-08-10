@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![snake](https://raw.githubusercontent.com/shubhamsharma-flutter/shubhamsharma-flutter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/shubhamsharma-flutter/shubhamsharma-flutter/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!--
 **shubhamsharma-flutter/shubhamsharma-flutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
